@@ -15,6 +15,9 @@ Before running the application, make sure you have installed the necessary Pytho
 ### Installation
 
 1. Clone or download the repository to your local machine.
+   ```bash
+   git clone https://github.com/rishabhc9/Mouse-Mover.git
+   ```
 2. Install the required Python packages using pip:
 
    ```bash
